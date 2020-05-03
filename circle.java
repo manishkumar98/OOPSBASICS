@@ -1,5 +1,5 @@
 class circle extends Shape{
-	 void printcircle(){
+	public void printcircle(){
 		System.out.println("This is circle");
 	}
 }

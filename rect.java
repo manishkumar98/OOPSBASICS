@@ -1,5 +1,5 @@
 class rect extends Shape{
-	 void printrect(){
+	public void printrect(){
 		System.out.println("This is rectangular shape");
 	}
 }
